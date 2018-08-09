@@ -7,7 +7,7 @@ Little prototypes that don't deserve their own individual repositories. These pr
 | [Fishing-Rod-Bend](https://github.com/barrettotte/Unity-Prototypes/tree/master/Fishing-Rod-Bend) | Use Euler-Bernouli Beam Theory to simulate a fishing rod bending. |
 
 
-## Screenshots
+# Screenshots
 
 
 ## [Fishing-Rod-Bend](https://github.com/barrettotte/Unity-Prototypes/tree/master/Fishing-Rod-Bend)
