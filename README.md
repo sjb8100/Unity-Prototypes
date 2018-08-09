@@ -1,5 +1,5 @@
 # Unity-Prototypes
-Little prototypes that don't deserve their own individual repositories
+Little prototypes that don't deserve their own individual repositories. These prototypes are from various stages of my programming life. So, don't judge any ugly things in here.
 
 ## Directories
 | **Directory Name**  | **Description** | 
